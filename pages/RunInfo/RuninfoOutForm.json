@@ -1,0 +1,62 @@
+[
+  {
+    "name": "end_mw",
+    "label": "End MW",
+    "type": "number",
+    "placeholder": "Enter End MW"
+  },
+  {
+    "name": "depth_out",
+    "label": "Depth Out",
+    "type": "number",
+    "placeholder": "Enter Depth Out"
+  },
+  {
+    "name": "inc_out",
+    "label": "Inc Out",
+    "type": "number",
+    "placeholder": "Enter Inc Out"
+  },
+  {
+    "name": "azi_out",
+    "label": "Azi Out",
+    "type": "number",
+    "placeholder": "Enter Azi Out"
+  },
+  {
+    "name": "dateout",
+    "label": "Date Out",
+    "type": "date",
+    "placeholder": "Enter Date Out"
+  },
+  {
+    "name": "datetd",
+    "label": "Date TD",
+    "type": "date",
+    "placeholder": "Enter Date TD"
+  },
+  {
+    "name": "drillinghour",
+    "label": "Drilling Hour",
+    "type": "number",
+    "placeholder": "Enter Drilling Hour"
+  },
+  {
+    "name": "pumpinghour",
+    "label": "Pumping Hour",
+    "type": "number",
+    "placeholder": "Enter Pumping Hour"
+  },
+  {
+    "name": "brthour",
+    "label": "BRT Hour",
+    "type": "number",
+    "placeholder": "Enter BRT Hour"
+  },
+  {
+    "name": "jobrun",
+    "label": "Job Run",
+    "type": "text",
+    "placeholder": "Enter Job Run"
+  }
+]

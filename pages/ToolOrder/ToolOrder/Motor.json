@@ -1,0 +1,79 @@
+[
+
+      {
+      "name": "motortype",
+      "label": "Motor Type",
+      "placeholder": "select Motor",
+      "component": "select",
+      "options": ["Tercel", "Bico"]
+    },
+    {
+      "name": "toolsize",
+      "label": "Tool Size",
+      "type": "select",
+      "placeholder": "select tool size",
+      "component": "select",
+      "options": ["9-5/8", "8", "6-3/4", "4-3/4"]
+    },
+    {
+      "name": "topconnection",
+      "label": "Top Connection",
+      "type": "select",
+      "placeholder": "select top connection",
+      "component": "select",
+      "options": ["7-5/8","6-5/8", "4-1/2", "3-1/2"]
+    },
+    {
+      "name": "bearingtype",
+      "label": "Bearing Type",
+      "type": "text",
+      "placeholder": "Enter bearing type",
+      "component": "field"
+    },
+    {
+      "name": "sleevestabsize",
+      "label": "Sleeve Stab Size",
+      "type": "text",
+      "placeholder": "Enter sleeve stab size",
+      "component": "field"
+    },
+    {
+      "name": "bottomconnection",
+      "label": "Bottom Connection",
+      "type": "select",
+      "placeholder": "select bottom connection",
+      "component": "select",
+      "options": ["7-5/8","6-5/8", "4-1/2", "3-1/2"]
+    },
+    {
+      "name": "lobeconfig",
+      "label": "Lobe Configuration",
+      "type": "text",
+      "placeholder": "Enter lobe configuration",
+      "component": "field"
+    },
+    {
+      "name": "numberofstage",
+      "label": "Number of Stages",
+      "type": "text",
+      "placeholder": "Enter number of stages",
+      "component": "field"
+    },
+    {
+      "name": "rubbertype",
+      "label": "Rubber Type",
+      "type": "select",
+      "placeholder": "Enter rubber type",
+      "component": "select",
+      "options": ["NBR", "HNBR"]
+    },
+    {
+      "name": "bendangle",
+      "label": "Bend Angle",
+      "type": "number",
+      "placeholder": "Enter bend angle",
+      "component": "field"
+    }
+    
+  ]
+  

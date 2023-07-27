@@ -1,0 +1,58 @@
+[
+  {
+    "name": "dd1",
+    "label": "DD1",
+    "type": "text",
+    "placeholder": "Enter DD1",
+    "component": "field"
+  },
+  {
+    "name": "dd2",
+    "label": "DD2",
+    "type": "text",
+    "placeholder": "Enter DD2",
+    "component": "field"
+  },
+  {
+    "name": "mwd1",
+    "label": "MWD1",
+    "type": "text",
+    "placeholder": "Enter MWD1",
+    "component": "field"
+  },
+  {
+    "name": "mwd2",
+    "label": "MWD2",
+    "type": "text",
+    "placeholder": "Enter MWD2",
+    "component": "field"
+  },
+  {
+    "name": "firstName",
+    "label": "First Name",
+    "type": "text",
+    "placeholder": "Enter first name",
+    "component": "field"
+  },
+  {
+    "name": "lastName",
+    "label": "Last Name",
+    "type": "text",
+    "placeholder": "Enter last name",
+    "component": "field"
+  },
+  {
+    "name": "employeeNumber",
+    "label": "Employee Number",
+    "type": "text",
+    "placeholder": "Enter employee number",
+    "component": "field"
+  },
+  {
+    "name": "submissionDate",
+    "label": "Submission Date",
+    "type": "date",
+    "placeholder": "Enter employee number",
+    "component": "field"
+  }
+]

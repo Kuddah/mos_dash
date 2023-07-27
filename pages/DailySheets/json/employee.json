@@ -1,0 +1,198 @@
+[
+    {        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13046",
+        "name": "Sultan Saif AL-Mahruqi",
+        "email": "sultan.almahruqi@gulfenergy-int.com",
+        "jobTitle": "Directional Drilling Engineer",
+        "assignment": "DD7",
+        "location": "Field"
+    },
+    {
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13044",
+        "name": "Khalid Said AL-Shaqsi",
+        "email": "khalid.alshaqsi@gulfenergy-int.com",
+        "jobTitle": "MWD Engineer",
+        "assignment": "MWD6",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13036",
+        "name": "Waleed Mohamed AL-Balushi",
+        "email": "waleed.albalushi@gulfenergy-int.com",
+        "jobTitle": "MWD Engineer",
+        "assignment": "DD4",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13045",
+        "name": "ALMutasim Humaid AL-Qassabi",
+        "email": "almuatasem.alqassabi@gulfenergy-int.com",
+        "jobTitle": "MWD Engineer",
+        "assignment": "DD4",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13159",
+        "name": "Ahmed mahfouz AlRahby",
+        "email": "ahmed.alrahbi@gulfenergy-int.com",
+        "jobTitle": "MWD Engineer",
+        "assignment": "MWD5",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13148",
+        "name": "Salim Badar AL-Maamri",
+        "email": "salim.almaamari@gulfenergy-int.com",
+        "jobTitle": "DD Engineer",
+        "assignment": "DD8",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13150",
+        "name": "Issa Sulaiman AL-Bahri",
+        "email": "issa.albahri@gulfenergy-int.com",
+        "jobTitle": "DD Engineer",
+        "assignment": "DD7",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13144",
+        "name": "Ahmed Khalifa AL-Qassabi",
+        "email": "ahmed.alqassabi@gulfenergy-int.com",
+        "jobTitle": "DD Engineer",
+        "assignment": "DD4",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13158",
+        "name": "Hamood Said AL-Musalhi",
+        "email": "hamood.almusalhi@gulfenergy-int.com",
+        "jobTitle": "MWD Engineer",
+        "assignment": "MWD5",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13139",
+        "name": "AlMeqdad Humaid AL-Rawahi",
+        "email": "almaqdad.alrawahi@gulfenergy-int.com",
+        "jobTitle": "DD Engineer",
+        "assignment": "DD5",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "12937",
+        "name": "Mohammed Al Hamadani",
+        "email": "mohammed.alhamdani@gulfenergy-int.com",
+        "jobTitle": "DD Engineer",
+        "assignment": "DD6",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "6930",
+        "name": "Bader Al Busaidi",
+        "email": "bader.albusaidi2@gulfenergy-int.com",
+        "jobTitle": "Motor & Turbine Technician",
+        "assignment": "Tech3",
+        "location": "Nizwa-workshop"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "6936",
+        "name": "Mohammed Al Busaidi",
+        "email": "Ishaq.AlBahlani@gulfenergy-int.com",
+        "jobTitle": "Motor & Turbine Technician",
+        "assignment": "Tech3",
+        "location": "Nizwa-workshop"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "6932",
+        "name": "IshaqAl Bhalani",
+        "email": "mohammed.albusaidi@gulfenergy-int.com",
+        "jobTitle": "Motor & Turbine Technician",
+        "assignment": "Tech3",
+        "location": "Nizwa-workshop"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "13065",
+        "name": "Saif Al Jahwary",
+        "email": "saif.aljahwari@gulfenergy-int.com",
+        "jobTitle": "Motor & Turbine Technician",
+        "assignment": "Tech3",
+        "location": "Nizwa-workshop"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "15133",
+        "name": "Alawi Alhinai",
+        "email": "alawi.alhinai@gulfenergy-int.com",
+        "jobTitle": "Motor & MWD Operator",
+        "assignment": "OP1",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "15146",
+        "name": "Mohammed Al Harrasi",
+        "email": "mohammed.alharrasi2@gulfenergy-int.com",
+        "jobTitle": "Motor & MWD Operator",
+        "assignment": "OP1",
+        "location": "Field"
+    },
+    {
+        
+        "company_name": "Gulf Energy LLC",
+        "segment": "Directional Drilling",
+        "employeeNumber": "15149",
+        "name": "Mohammed Al Harthi",
+        "email": "mohammed.alharthi1@gulfenergy-int.com",
+        "jobTitle": "Motor & MWD Operator",
+        "assignment": "OP1",
+        "location": "Field"
+    }
+]

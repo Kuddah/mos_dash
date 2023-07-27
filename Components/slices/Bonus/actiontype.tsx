@@ -1,0 +1,18 @@
+// actionTypes.js
+
+export const SET_DISPLAY = 'SET_DISPLAY';
+export const SET_BONUS_SHEET_API = 'SET_BONUS_SHEET_API';
+export const SET_SELECTED_BONUS_SHEET = 'SET_SELECTED_BONUS_SHEET';
+export const SET_IS_OFFCANVAS = 'SET_IS_OFFCANVAS';
+export const SET_INFO = 'SET_INFO';
+export const SET_SHOW_DELETE_MODAL = 'SET_SHOW_DELETE_MODAL';
+export const SET_SHOW_ADD_MODAL = 'SET_SHOW_ADD_MODAL';
+export const SET_SHOW_EDIT_MODAL = 'SET_SHOW_EDIT_MODAL';
+export const SET_IS_EDIT = 'SET_IS_EDIT';
+export const SET_DATA = 'SET_DATA';
+export const SET_IS_SUBMIT_BTN = 'SET_IS_SUBMIT_BTN';
+export const SET_NEW_DAILY_RECORDS = 'SET_NEW_DAILY_RECORDS';
+export const SET_GRADE = 'SET_GRADE';
+export const SET_DAILY_RECORDS = 'SET_DAILY_RECORDS';
+export const SET_EMPLOYEES = 'SET_EMPLOYEES';
+export const SET_TOTALS = 'SET_TOTALS';

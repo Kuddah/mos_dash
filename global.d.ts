@@ -1,0 +1,12 @@
+// declare module 'react-apexcharts';
+// declare module 'apexcharts';
+declare module 'react-table';
+declare module 'react-datepicker';
+declare module 'prismjs';
+declare module '@ckeditor/ckeditor5-react';
+declare module '@ckeditor/ckeditor5-build-classic';
+declare module 'cleave.js/react';
+declare module 'react-dual-listbox';
+declare module 'google-maps-react';
+declare module 'pouchdb';
+declare module 'pouchdb-find';

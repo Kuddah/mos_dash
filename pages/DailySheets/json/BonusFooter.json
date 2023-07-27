@@ -1,0 +1,18 @@
+[
+  {
+    "name": "total_days",
+    "type": "text",
+    "label": "Number Of Days",
+    "placeholder": "Enter Employee Grade",
+    "component": "field",
+    "readonly": true
+  },
+  {
+    "name": "total_amount",
+    "type": "text",
+    "label": "Cumulative Total",
+    "placeholder": "Cumulative Total",
+    "component": "field",
+    "readonly": true
+  }
+]

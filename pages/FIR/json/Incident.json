@@ -1,0 +1,122 @@
+[
+  {
+    "name": "bitGrading",
+    "label": "Bit Grading",
+    "type": "text",
+    "placeholder": "Enter bit grading",
+    "component": "field"
+  },
+  {
+    "name": "tfa",
+    "label": "TFA",
+    "type": "text",
+    "placeholder": "Enter TFA",
+    "component": "field"
+  },
+  {
+    "name": "bitType",
+    "label": "Bit Type",
+    "type": "text",
+    "placeholder": "Enter bit type",
+    "component": "field"
+  },
+  {
+    "name": "offBtmPressure",
+    "label": "Off Btm Pressure",
+    "type": "number",
+    "placeholder": "Enter off bottom pressure",
+    "component": "field"
+  },
+  {
+    "name": "bitMaker",
+    "label": "Bit Maker",
+    "type": "text",
+    "placeholder": "Enter bit maker",
+    "component": "field"
+  },
+  {
+    "name": "iadc",
+    "label": "IADC",
+    "type": "text",
+    "placeholder": "Enter IADC",
+    "component": "field"
+  },
+  {
+    "name": "bitModel",
+    "label": "Bit Model",
+    "type": "text",
+    "placeholder": "Enter bit model",
+    "component": "field"
+  },
+  {
+    "name": "slackOffWeight",
+    "label": "Slack Off Weight",
+    "type": "number",
+    "placeholder": "Enter slack off weight",
+    "component": "field"
+  },
+
+  {
+    "name": "onBtmPressure",
+    "label": "On Btm Pressure",
+    "type": "number",
+    "placeholder": "Enter on bottom pressure",
+    "component": "field"
+  },
+  {
+    "name": "flowRate",
+    "label": "Flow Rate",
+    "type": "number",
+    "placeholder": "Enter flow rate",
+    "component": "field"
+  },
+  {
+    "name": "offBtmTorque",
+    "label": "Off Btm Torque",
+    "type": "number",
+    "placeholder": "Enter off bottom torque",
+    "component": "field"
+  },
+  {
+    "name": "wob",
+    "label": "WOB",
+    "type": "number",
+    "placeholder": "Enter WOB",
+    "component": "field"
+  },
+  {
+    "name": "onBtmTorque",
+    "label": "On Btm Torque",
+    "type": "number",
+    "placeholder": "Enter on bottom torque",
+    "component": "field"
+  },
+  {
+    "name": "pickUpWeight",
+    "label": "Pick Up Weight",
+    "type": "number",
+    "placeholder": "Enter pick up weight",
+    "component": "field"
+  },
+
+
+  {
+    "name": "jarring",
+    "label": "Jarring",
+    "type": "radio",
+    "placeholder": "Check if jarring",
+    "component": "radio",
+    "options": ["Yes", "No"]
+  },
+  {
+    "name": "lcm",
+    "label": "LCM",
+    "type": "radio",
+    "placeholder": "Check if LCM",
+    "component": "radio",
+    "options": ["Yes", "No"]
+  }
+  
+
+  
+]

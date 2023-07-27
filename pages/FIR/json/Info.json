@@ -1,0 +1,73 @@
+[
+  {
+    "name": "IncidentDate",
+    "label": "Incident Date",
+    "type": "date",
+    "placeholder": "Enter submission date",
+    "component": "field"
+  },
+  {
+    "name": "jobNumber",
+    "label": "Job Number",
+    "type": "text",
+    "placeholder": "Enter job number",
+    "component": "field"
+  },
+  {
+    "name": "bhaNumber",
+    "label": "BHA Number",
+    "type": "number",
+    "placeholder": "Enter BHA number",
+    "component": "field"
+  },
+  {
+    "name": "runNumber",
+    "label": "Run Number",
+    "type": "number",
+    "placeholder": "Enter run number",
+    "component": "field"
+  },
+  {
+    "name": "rig",
+    "label": "Rig",
+    "type": "text",
+    "placeholder": "Enter rig",
+    "component": "field"
+  },
+  {
+    "name": "wellName",
+    "label": "Well Name",
+    "type": "text",
+    "placeholder": "Enter well name",
+    "component": "field"
+  },
+  {
+    "name": "client",
+    "label": "Client",
+    "type": "text",
+    "placeholder": "Enter client",
+    "component": "field"
+  },
+  {
+    "name": "holeSize",
+    "label": "Hole Size",
+    "type": "text",
+    "placeholder": "Enter hole size",
+    "component": "field"
+  },
+  {
+    "name": "firNumber",
+    "label": "FIR Number",
+    "type": "text",
+    "placeholder": "Enter FIR number",
+    "component": "field"
+  },
+  {
+    "name": "incidentType",
+    "label": "Incident Type",
+    "type": "select",
+    "placeholder": "Enter incident type",
+    "component": "select",
+    "options": ["Motor Failure", "MWD Failure", "Other"]
+  }  
+]

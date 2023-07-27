@@ -1,0 +1,78 @@
+[
+    
+    
+    {
+      "name": "batterytype",
+      "label": "Battery Type",
+      "type": "select",
+      "placeholder": "select battery type",
+      "component": "select",
+      "options": ["Normal","High Temp"]
+    },    
+    {
+      "name": "nmdccollarsize",
+      "label": "NMDC Collar Size",
+      "type": "select",
+      "placeholder": "select NMDC collar size",
+      "component": "select",
+      "options": ["9-5/8", "8", "6-3/4", "4-3/4"]
+    },
+    {
+      "name": "mwdbottomcon",
+      "label": "MWD Bottom Connection",
+      "type": "select",
+      "placeholder": "select MWD bottom connection",
+      "component": "select",
+      "options": ["7-5/8","6-5/8", "4-1/2", "3-1/2"]
+    },
+    {
+      "name": "mwdtopcon",
+      "label": "MWD Top Connection",
+      "type": "select",
+      "placeholder": "select MWD top connection",
+      "component": "select",
+      "options": ["7-5/8","6-5/8", "4-1/2", "3-1/2"]
+    },
+    {
+      "name": "pulser",
+      "label": "Pulser",
+      "type": "radio",
+      "placeholder": "Enter pulser",
+      "component": "radio",
+      "options": ["Yes", "No"]
+    },
+    {
+      "name": "mwd",
+      "label": "MWD",
+      "type": "radio",
+      "placeholder": "Enter MWD",
+      "component": "radio",
+      "options": ["Yes", "No"]
+    },
+
+    {
+      "name": "gamma",
+      "label": "Gamma",
+      "type": "radio",
+      "placeholder": "Enter gamma",
+      "component": "radio",
+      "options": ["Yes", "No"]
+    },
+    {
+      "name": "resistivity",
+      "label": "Resistivity",
+      "type": "radio",
+      "placeholder": "Enter resistivity",
+      "component": "radio",
+      "options": ["Yes", "No"]
+    },
+    {
+      "name": "density",
+      "label": "Density",
+      "type": "radio",
+      "placeholder": "Enter density",
+      "component": "radio",
+      "options": ["Yes", "No"]
+    }
+  ]
+  

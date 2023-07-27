@@ -1,0 +1,30 @@
+[
+    {
+        "name": "incidentSummary",
+        "label": "Incident Summary",
+        "type": "textarea",
+        "placeholder": "Enter incident summary",
+        "component": "field"
+      },
+      {
+        "name": "fieldInvest",
+        "label": "Field Invest",
+        "type": "textarea",
+        "placeholder": "Enter field invest",
+        "component": "field"
+      },
+      {
+        "name": "operationAtTimeOfIncident",
+        "label": "Operation at time of Incident",
+        "type": "textarea",
+        "placeholder": "Enter operation at time of incident",
+        "component": "field"
+      },
+      {
+        "name": "timelineAndCorrective",
+        "label": "Timeline and Corrective",
+        "type": "textarea",
+        "placeholder": "Enter timeline and corrective",
+        "component": "field"
+      }
+]

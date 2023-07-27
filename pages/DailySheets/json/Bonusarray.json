@@ -1,0 +1,77 @@
+[
+  {
+    "name": "date",
+    "type": "number",
+    "label": "Date",
+    "placeholder": "Enter Date",
+    "component": "field",
+    "readonly": true
+  },
+  {
+    "name": "well",
+    "type": "text",
+    "label": "Well",
+    "placeholder": "Enter Well",
+    "component": "field",
+    "readonly": false
+  },
+  {
+    "name": "rig",
+    "type": "text",
+    "label": "Rig",
+    "placeholder": "Enter Rig",
+    "component": "field",
+    "readonly": false
+  },
+  {
+    "name": "job_number",
+    "type": "text",
+    "label": "Job Number",
+    "placeholder": "Enter Job Number",
+    "component": "field",
+    "readonly": false
+  },
+  {
+    "name": "status",
+    "type": "text",
+    "label": "Status",
+    "placeholder": "Enter Status",
+    "component": "select",
+    "options": [
+      "Select Status",
+      "On Duty",
+      "Days Off",
+      "Workshop",
+      "Annual Leave",
+      "Other Leave",
+      "Sick Leave",
+      "Training",
+      "Absent"
+    ]
+  },
+  {
+    "name": "tierType",
+    "type": "text",
+    "label": "Tier Type",
+    "placeholder": "Enter Tier Type",
+    "component": "select",
+    "options": [
+      "Select Tier",
+      "Other",
+      "Core Bonus",
+      "T1",
+      "T2",
+      "T3",
+      "T4",
+      "T5"
+    ]
+  },
+  {
+    "name": "total",
+    "type": "number",
+    "label": "Total",
+    "placeholder": "Enter Total",
+    "component": "field",
+    "readonly": true
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "jobno",
+    "label": "Job Number",
+    "type": "text",
+    "placeholder": "Enter job number"
+  },
+  {
+    "name": "client",
+    "label": "Client",
+    "type": "text",
+    "placeholder": "Enter revision"
+  },
+  {
+    "name": "loc",
+    "label": "Location",
+    "type": "text",
+    "placeholder": "Enter Location"
+  },
+  {
+    "name": "field",
+    "label": "Field",
+    "type": "text",
+    "placeholder": "Enter Field"
+  },
+  {
+    "name": "rig",
+    "label": "Rig",
+    "type": "text",
+    "placeholder": "Enter Rig Name"
+  },
+  {
+    "name": "well",
+    "label": "Well Name",
+    "type": "text",
+    "placeholder": "Enter Well Name"
+  },
+  {
+    "name": "statu",
+    "label": "Status",
+    "type": "text",
+    "placeholder": "Enter Status"
+  }
+]

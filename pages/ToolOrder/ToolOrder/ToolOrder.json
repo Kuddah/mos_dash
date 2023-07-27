@@ -1,0 +1,97 @@
+[
+
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "date",
+      "placeholder": "Enter date",
+      "component": "field"
+    },
+    {
+      "name": "jobnumber",
+      "label": "Job Number",
+      "type": "text",
+      "placeholder": "Enter job number",
+      "component": "field"
+    },
+    {
+      "name": "revision",
+      "label": "Revision",
+      "type": "number",
+      "placeholder": "Enter revision",
+      "component": "field"
+    },
+    {
+      "name": "jobtype",
+      "label": "Job Type",
+      "type": "select",
+      "placeholder": "Enter job type",
+      "component": "select",
+      "options": ["Vertical", "Directional", "Other"]
+    },
+    {
+      "name": "client",
+      "label": "Client",
+      "type": "text",
+      "placeholder": "Enter client",
+      "component": "field"
+    },
+    {
+      "name": "rigname",
+      "label": "Rig Name",
+      "type": "text",
+      "placeholder": "Enter rig name",
+      "component": "field"
+    },
+    {
+      "name": "requiredshippingdate",
+      "label": "Required Date",
+      "type": "date",
+      "placeholder": "Enter required shipping date",
+      "component": "field"
+    },
+    {
+      "name": "deviated",
+      "label": "Deviated",
+      "type": "text",
+      "placeholder": "Enter deviated",
+      "component": "field"
+    },
+    {
+        "name": "depthfrom",
+        "label": "Depth From",
+        "type": "number",
+        "placeholder": "Enter depth from",
+        "component": "field"
+      },
+      {
+        "name": "depthto",
+        "label": "Depth To",
+        "type": "number",
+        "placeholder": "Enter depth to",
+        "component": "field"
+      },
+      {
+        "name": "flowratemin",
+        "label": "Flow Rate Min",
+        "type": "number",
+        "placeholder": "Enter flow rate min",
+        "component": "field"
+      },
+      {
+        "name": "flowratemax",
+        "label": "Flow Rate Max",
+        "type": "number",
+        "placeholder": "Enter flow rate max",
+        "component": "field"
+      },
+      {
+        "name": "expectedbtmholetemp",
+        "label": "Expected Btm Hole Temp",
+        "type": "number",
+        "placeholder": "Enter Expected Btm Hole Temp",
+        "component": "field"
+      }
+    
+  ]
+  

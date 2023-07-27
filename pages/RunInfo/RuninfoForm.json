@@ -1,0 +1,81 @@
+[
+    {
+      "name": "bha_run",
+      "label": "BHA Run",
+      "type": "number",
+      "placeholder": "Enter BHA Run"
+    },
+    {
+      "name": "jobno",
+      "label": "Job Number",
+      "type": "text",
+      "placeholder": "Enter Job Number"
+    },
+    {
+      "name": "mud_type",
+      "label": "Mud Type",
+      "type": "text",
+      "placeholder": "Enter Mud Type"
+    },
+    {
+      "name": "casing_shoe",
+      "label": "Casing Shoe",
+      "type": "number",
+      "placeholder": "Enter Casing Shoe"
+    },
+    {
+      "name": "casing_size",
+      "label": "Casing Size",
+      "type": "text",
+      "placeholder": "Enter Casing Size"
+    },
+    {
+      "name": "casing_weight",
+      "label": "Casing Weight",
+      "type": "text",
+      "placeholder": "Enter Casing Weight"
+    },
+    {
+      "name": "hole_size",
+      "label": "Hole Size",
+      "type": "number",
+      "placeholder": "Enter Hole Size"
+    },
+    {
+      "name": "depth_in",
+      "label": "Depth In",
+      "type": "number",
+      "placeholder": "Enter Depth In"
+    },
+    {
+      "name": "inc_in",
+      "label": "Inc In",
+      "type": "number",
+      "placeholder": "Enter Inc In"
+    },
+    {
+      "name": "azi_in",
+      "label": "Azi In",
+      "type": "number",
+      "placeholder": "Enter Azi In"
+    },
+    {
+      "name": "datein",
+      "label": "Date In",
+      "type": "date",
+      "placeholder": "Enter Date In"
+    },
+    {
+      "name": "borehole",
+      "label": "Borehole",
+      "type": "text",
+      "placeholder": "Enter Borehole"
+    },
+    {
+      "name": "jobrun",
+      "label": "Job Run",
+      "type": "text",
+      "placeholder": "Enter Job Run"
+    }
+  ]
+  

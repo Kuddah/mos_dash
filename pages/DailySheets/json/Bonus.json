@@ -1,0 +1,62 @@
+[    {
+  "name": "company_name",
+  "type": "text",
+  "label": "Company Number",
+  "placeholder": "Enter Company Name",
+  "component": "field",
+  "readonly": true
+}, {
+  "name": "segment",
+  "type": "text",
+  "label": "Segment",
+  "placeholder": "Enter Company Name",
+  "component": "field",
+  "readonly": true
+},
+    {
+      "name": "employeeNumber",
+      "type": "text",
+      "label": "Employee Number",
+      "placeholder": "Enter Employee Number",
+      "component": "field"
+    },
+    
+    {
+      "name": "employeename",
+      "type": "text",
+      "label": "Employee Name",
+      "placeholder": "Enter Employee Name",
+      "component": "field",
+      "readonly": true
+    },
+    {
+      "name": "month",
+      "type": "select",
+      "label": "Month",
+      "component": "select",
+      "options": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "placeholder": "Select Month"
+    },
+    {
+      "name": "employeegrade",
+      "type": "text",
+      "label": "Employee Grade",
+      "placeholder": "Enter Employee Grade",
+      "component": "field",
+      "readonly": true
+    }
+  ]
+  

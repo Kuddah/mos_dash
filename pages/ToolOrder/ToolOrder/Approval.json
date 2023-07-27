@@ -1,0 +1,38 @@
+[   
+    {
+      "name": "orderedby",
+      "label": "Ordered By",
+      "type": "text",
+      "placeholder": "Enter ordered by",
+      "component": "field"
+    },
+    {
+      "name": "motortechnician",
+      "label": "Motor Technician",
+      "type": "text",
+      "placeholder": "Enter motor technician",
+      "component": "field"
+    },
+    {
+      "name": "mwldwtechnician",
+      "label": "MWD/LWD Technician",
+      "type": "text",
+      "placeholder": "Enter MWD/LWD technician",
+      "component": "field"
+    },
+    {
+      "name": "approvedby",
+      "label": "Approved By",
+      "type": "text",
+      "placeholder": "Enter approved by",
+      "component": "field"
+    },
+    {
+      "name": "approvedbydate",
+      "label": "Approved By Date",
+      "type": "date",
+      "placeholder": "Enter approved by date",
+      "component": "field"
+    }
+  ]
+  

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "runUpload",
+    "label": "Run Summary Upload",
+    "type": "application/pdf",
+    "placeholder": "Upload run file",
+    "component": "dropzone",
+    "onDrop": "handleDrop"
+  },
+  {
+    "name": "mudreportUpload",
+    "label": "Mud report Upload",
+    "type": "application/pdf",
+    "placeholder": "Upload mudreport file",
+    "component": "dropzone",
+    "onDrop": "handleDrop"
+  },
+  {
+    "name": "bhaUpload",
+    "label": "BHA Upload",
+    "type": "application/pdf",
+    "placeholder": "Upload BHA file",
+    "component": "dropzone",
+    "onDrop": "handleDrop"
+  },
+  
+  {
+    "name": "ImageUpload",
+    "label": "Images & Video Upload",
+    "type": "image/*",
+    "placeholder": "Upload PV file",
+    "component": "dropzone",
+    "onDrop": "handleDrop"
+  },
+  {
+    "name": "mluUpload",
+    "label": "MLU Upload",
+    "type": "application/pdf",
+    "placeholder": "Upload MLU file",
+    "component": "dropzone",
+    "onDrop": "handleDrop"
+  },
+  {
+    "name": "OtherUPload",
+    "label": "Other Upload",
+    "type": "application/pdf",
+    "placeholder": "Upload MLU file",
+    "component": "dropzone",
+    "onDrop": "handleDrop"
+  }
+  
+]
